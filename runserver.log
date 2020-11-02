@@ -1,0 +1,3 @@
+Watching for file changes with StatReloader
+[02/Nov/2020 15:03:39] "GET / HTTP/1.1" 200 6090
+[02/Nov/2020 15:03:45] "GET /activity/ HTTP/1.1" 200 8769
